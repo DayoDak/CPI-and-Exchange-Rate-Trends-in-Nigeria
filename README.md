@@ -1,7 +1,7 @@
 # Consumer Price Index and Exchange Rate Trends in Nigeria.
 
 ![trends](Forex_Trend.jpg)
-_This Tableau Project shows the trends and the relationship of the Consumer Price Index(CPI) and Dollar to Naira Exchange Rate between 1995 - 2021 in Nigeria._
+_This Tableau Project shows the trends and the relationship between Consumer Price Index(CPI) and the  Dollar to Naira Exchange Rate between 1995 - 2021 in Nigeria._
 
 **_Disclaimer_**: _I own no sole propriety to the data used for this project. All data used in this project is gotten from CBN statistical bulletin 2021 and NBS._
 
